@@ -47,4 +47,4 @@
 <p align="right"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/0" alt="Recent Article 0"> 
       <p align="right"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/2" alt="Recent Article 2"> 
         
-
+[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofften)](https://github.com/dofften/github-readme-stats)
