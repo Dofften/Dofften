@@ -44,7 +44,5 @@
 <p align="center"><a href="https://www.buymeacoffee.com/dofften"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dofften" /></a></br>
 
 ![Frank Omondi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofften&show_icons=true&theme=radical)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dofften)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 ![Snake animation](https://github.com/dofften/dofften/blob/output/github-contribution-grid-snake.svg)
