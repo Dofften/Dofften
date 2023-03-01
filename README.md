@@ -41,7 +41,7 @@
 
 
 <h3 align="center">Support</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/isasari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/isasari" /></a>
+<p align="center"><a href="https://www.buymeacoffee.com/dofften"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dofften" /></a>
 
 <h3 align="center">Latest Medium Posts</h3>
 <p align="right"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/0" alt="Recent Article 0"> 
