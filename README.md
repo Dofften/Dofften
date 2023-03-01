@@ -65,4 +65,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dofften&layout=compact" />
 </picture>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofften&show_icons=true&theme=radical)
+![Frank Omondi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofften&show_icons=true&theme=radical)
