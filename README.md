@@ -47,4 +47,14 @@
 <p align="right"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/0" alt="Recent Article 0"> 
       <p align="right"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@isa-sari/2" alt="Recent Article 2"> 
         
-[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofften)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=dofften&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dofften&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dofften&show_icons=true" />
+</picture>
