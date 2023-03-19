@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Frank Omondi</h1>
 <h2 align="center"> Software Engineer</h2>
-<p align="center"> ⚡ I decided to pursue a career in programming and artificial intelligence. While researching AI, I found myself in awe as I delved deeper into programming. So I enrolled in computer programming education and started doing individual studies. After deciding that frontend development is the field for me, I focused on this field and attended two bootcamps. I am proficient in HTML, CSS, JavaScript, and React.js. My motto is "Lead the world with code." I am an innovative person attaching importance to logical thinking. Eager to absorb as much knowledge and insight as possible in the pursuance of my goals. I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
+<p align="center"> ⚡ I am proficient in HTML, CSS, JavaScript, React.js and Python. I am an innovative person attaching importance to logical thinking. Eager to absorb as much knowledge and insight as possible in the pursuance of my goals. I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
 <hr>
 <h3 align="center">Connect with me</h3>
 <p align="center"><a href="https://www.linkedin.com/in/frederick-omondi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isasari" height="30" width="30" /></a>
