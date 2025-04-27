@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Frank Omondi</h1>
+<h1 align="center"> Hi there, I'm Frank Omondi</h1>
 <h2 align="center"> Software Developer</h2>
 <p align="center"> I love problem solving with code. I find great fulfillment in utilizing my coding expertise to tackle intricate problems and build digital solutions. My love for cutting-edge technologies drives me to constantly push boundaries and innovate. I love <strong>contributing</strong> to open source projects and adding <strong>value</strong> to coding solutions</p>
 <hr>
